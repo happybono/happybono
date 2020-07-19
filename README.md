@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Arduino / Internet of Things (IoT)
 - Microsoft Azure
 - Microsoft Azure DevOps
-- MLOps (Machine Learing Operation - Especially, ML/DL Model Production)
+- MLOps (Machine Learning Operation - Especially, ML/DL Model Production)
 - Leadership, Mentoring, Writing, Presentation
  
 <div align=center>
