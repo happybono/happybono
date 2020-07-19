@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -  Windows based application developer (Freelancer).
 
 ### Interest
-- Microsoft Windows Platform
+- Microsoft Windows Platform (.NET Framework / Windows Forms / WPF / MS SQL Database)
 - Arduino / Internet of Things (IoT)
 - Microsoft Azure
 - Microsoft Azure DevOps
