@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ### Interest
 - Microsoft Windows Platform (.NET Framework / Windows Forms / WPF / MS-SQL Database)
+- VB.NET & C#.NET
 - Arduino / Internet of Things (IoT)
 - Microsoft Azure
 - Microsoft Azure DevOps
