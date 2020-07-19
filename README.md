@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### Windows based application developer
--  Windows based application developer.
+-  Windows based application developer (Freelancer).
 
 ### Interest
 - Microsoft Windows Platform
