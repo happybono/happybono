@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  
 <div align=center>
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-21759B?style=flat&logo=WordPress&link=https://happybono.wordpress.com/)](https://happybono.wordpress.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-WordPress-21759B?style=flat&logo=WordPress&link=https://happybono.wordpress.com/)](https://happybono.wordpress.com/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-&logo=facebook&logoColor=white&link=https://www.facebook.com/happybono)](https://www.facebook.com/happybono)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/happybono/)](https://www.linkedin.com/in/happybono)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=mailto:happybono@outlook.com)](mailto:happybono@outlook.com)
