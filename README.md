@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <br><div align=center> 
-[![Charlie Jaewoong's github stats](https://github-readme-stats.vercel.app/api?username=happybono)](https://github.com/anuraghazra/github-readme-stats)
+[![Charlie Jaewoong's github stats](https://github-readme-stats.vercel.app/api?username=happybono)](https://github.com/happybono)
 </div><br>
 
 ### Windows based application developer
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - Leadership, Mentoring, Writing, Presentation
 
 <br><div align=center> 
-[![Charlie Jaewoong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=happybono&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Charlie Jaewoong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=happybono&layout=compact)](https://github.com/happybono)</div>
 
 <br><div align=center> 
 [![Tech Blog Badge](http://img.shields.io/badge/-WordPress-21759B?style=flat&logo=WordPress&link=https://happybono.wordpress.com/)](https://happybono.wordpress.com/)
