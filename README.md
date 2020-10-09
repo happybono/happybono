@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>[![Charlie Jaewoong's github stats](https://github-readme-stats.vercel.app/api?username=happybono)](https://github.com/anuraghazra/github-readme-stats)
-
+<br><div align=center> 
+[![Charlie Jaewoong's github stats](https://github-readme-stats.vercel.app/api?username=happybono)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ### Windows based application developer
 -  Windows based application developer (Freelancer).
@@ -37,11 +38,9 @@ Here are some ideas to get you started:
 - MLOps (Machine Learning Operation - Especially, ML/DL Model Production)
 - Leadership, Mentoring, Writing, Presentation
 
+<br><div align=center> 
+[![Charlie Jaewoong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=happybono&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happybono&layout=compact"/>
-</a>
- 
 <br><div align=center> 
 [![Tech Blog Badge](http://img.shields.io/badge/-WordPress-21759B?style=flat&logo=WordPress&link=https://happybono.wordpress.com/)](https://happybono.wordpress.com/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-&logo=facebook&logoColor=white&link=https://www.facebook.com/happybono)](https://www.facebook.com/happybono)
