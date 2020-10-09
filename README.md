@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=happybono" />
+  <br><img align="center" src="https://github-readme-stats.vercel.app/api?username=happybono" />
 </a>
 
 
@@ -41,12 +41,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happybono&layout=compact" />
+  <br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happybono&layout=compact"/>
 </a>
-
  
-<div align=center>
-  
+<br><div align=center> 
 [![Tech Blog Badge](http://img.shields.io/badge/-WordPress-21759B?style=flat&logo=WordPress&link=https://happybono.wordpress.com/)](https://happybono.wordpress.com/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-&logo=facebook&logoColor=white&link=https://www.facebook.com/happybono)](https://www.facebook.com/happybono)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/happybono/)](https://www.linkedin.com/in/happybono)
