@@ -20,10 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <br><img align="center" src="https://github-readme-stats.vercel.app/api?username=happybono" />
-</a>
+[![Charlie Jaewoong's github stats](https://github-readme-stats.vercel.app/api?username=happybono)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Windows based application developer
