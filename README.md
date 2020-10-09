@@ -4,7 +4,7 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/happybono/happybono">
 <img alt="GitHub status" src="https://img.shields.io/badge/job%20status-offers%20welcome-brightgreen">
 </div>
- 
+
 <!--
 **happybono/happybono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=happybono" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happybono&layout=compact" />
-</a>
+<br>
 
 ### Windows based application developer
 -  Windows based application developer (Freelancer).
@@ -40,6 +38,12 @@ Here are some ideas to get you started:
 - Microsoft Azure DevOps
 - MLOps (Machine Learning Operation - Especially, ML/DL Model Production)
 - Leadership, Mentoring, Writing, Presentation
+
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happybono&layout=compact" />
+</a>
+<br>
  
 <div align=center>
   
@@ -49,3 +53,5 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=mailto:happybono@outlook.com)](mailto:happybono@outlook.com)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=Microsoft%20Outlook&logoColor=white&link=mailto:happybono@outlook.com)](mailto:happybono@outlook.com)
 </div>
+
+
