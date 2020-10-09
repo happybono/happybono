@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br><div align=center> 
 [![Charlie Jaewoong's github stats](https://github-readme-stats.vercel.app/api?username=happybono)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div><br>
 
 ### Windows based application developer
 -  Windows based application developer (Freelancer).
