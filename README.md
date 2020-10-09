@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=happybono" />
 </a>
-<br>
+
 
 ### Windows based application developer
 -  Windows based application developer (Freelancer).
@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 - MLOps (Machine Learning Operation - Especially, ML/DL Model Production)
 - Leadership, Mentoring, Writing, Presentation
 
-<br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happybono&layout=compact" />
 </a>
-<br>
+
  
 <div align=center>
   
