@@ -3,7 +3,7 @@
 <img alt="Hit Counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappybono%2Fhit-counter">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/happybono/happybono">
 <img alt="GitHub status" src="https://img.shields.io/badge/job%20status-offers%20welcome-brightgreen">
- </div>
+</div>
  
 <!--
 **happybono/happybono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=happybono" />
+</a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happybono" />
+</a>
 
 ### Windows based application developer
 -  Windows based application developer (Freelancer).
