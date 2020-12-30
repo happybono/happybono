@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Windows based application developer
 -  Windows based application developer (Freelancer).
 
-### Interest
+### Interests
 - Microsoft Windows Platform (.NET Framework / Windows Forms / WPF / MS-SQL Database)
 - VB.NET & C#.NET
 - Microsoft Office App Development (VBA : Visual Basic for Applications / Add-in)
