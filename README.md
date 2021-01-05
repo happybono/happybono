@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Microsoft Windows Platform (.NET Framework / Windows Forms / WPF / MS-SQL Database)
 - VB.NET & C#.NET
 - Microsoft Office App Development (VBA : Visual Basic for Applications / Add-in)
-- Arduino / Internet of Things (IoT)
+- C++ / Arduino / Internet of Things (IoT)
 - Microsoft Azure
 - Microsoft Azure DevOps
 - MLOps (Machine Learning Operation - Especially, Machine Learning / Deep Learning Model Production)
