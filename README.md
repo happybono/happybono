@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div><br>
 
 ### Windows based application developer
--  Windows based application developer (Freelancer).
+-  Windows based application developer (Freelancer)
 
 ### Interests
 - Microsoft Windows Platform (.NET Framework / Windows Forms / WPF / MS-SQL Database)
