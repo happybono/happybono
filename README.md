@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div><br>
 
 ### Windows based application developer
--  Windows based application developer (Freelancer)
+-  Windows based application developer
 
 ### Interests
 - Microsoft Windows Platform (.NET Framework / Windows Forms / WPF / MS-SQL Database)
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - Microsoft Azure
 - Microsoft Azure DevOps
 - MLOps (Machine Learning Operation - Especially, Machine Learning / Deep Learning Model Production)
+- Open CV / Computer Vision Processing (Beginner)
 - Leadership, Mentoring, Writing, Presentation
 
 <br><div align=center> 
