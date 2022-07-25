@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 - Microsoft Azure
 - Microsoft Azure DevOps
 - MLOps (Machine Learning Operation - Especially, Machine Learning / Deep Learning Model Production)
-- Open CV / Computer Vision Processing (Beginner)
 - Leadership, Mentoring, Writing, Presentation
 
 <br><div align=center> 
