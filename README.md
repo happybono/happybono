@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 ### Windows based application developer
 -  Windows based application developer
 
+### Junior Java backend developer
+-  Java / Struts 2 / Servlet / JSP
+
 ### Interests
 - Microsoft Windows Platform (.NET Framework / Windows Forms / WPF / MS-SQL Database)
 - VB.NET & C#.NET
