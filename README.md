@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Windows based application developer
 -  Windows based application developer
 
-### Junior Java backend developer
+### Junior Java back-end developer
 -  Java / Struts 2 / Servlet / JSP
 
 ### Interests
