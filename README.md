@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 ### Junior Java back-end developer
 -  Java / Struts 2 / Servlet / JSP
+-  PostgreSQL
 
 ### Interests
 - Microsoft Windows Platform (.NET Framework / Windows Forms / WPF / MS-SQL Database)
