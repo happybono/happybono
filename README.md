@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -  Windows based application developer
 
 ### Junior Java back-end developer
--  Java / Struts 2 / Servlet / JSP
+-  Java / Struts 2 (MVC) / Servlet / JSP
 -  PostgreSQL
 -  Eclipse IDE
 
