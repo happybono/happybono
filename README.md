@@ -1,4 +1,4 @@
-### /*life runs on code */ 👋
+### /* Do more of what you love */ 👋
 <div align="center">
 <img alt="Hit Counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappybono%2Fhit-counter">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/happybono/happybono">
