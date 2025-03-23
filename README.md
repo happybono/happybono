@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - VB.NET & C#.NET
 - Microsoft Office App Development (VBA : Visual Basic for Applications / Add-in)
 - C++ / Arduino / Internet of Things (IoT)
-- OpenCV (Machine Vision & Artificial Intelligence)
+- OpenCVSharp4 (Machine Vision & Artificial Intelligence)
 - Microsoft Azure DevOps
 - MLOps (Machine Learning Operation - Especially, Machine Learning / Deep Learning Model Production)
 - Leadership, Mentoring, Writing, Presentation
