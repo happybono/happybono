@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div><br>
 
 ### Windows based application developer
--  Windows based application developer
+-  Windows based application & library (component) developer
 
 ### Interests
 - Microsoft Windows Platform (.NET Framework / Windows Forms / WPF / MS-SQL Database)
