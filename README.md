@@ -1,4 +1,4 @@
-### /* do more of what you love */ 👋
+### /* Dream big. Achieve more. */ 
 <div align="center">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/happybono/happybono">
 <img alt="GitHub status" src="https://img.shields.io/badge/job%20status-offers%20welcome-brightgreen">
