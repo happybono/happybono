@@ -30,16 +30,25 @@ Here are some ideas to get you started:
 -  Windows based application & library (component) developer
 
 ### Interests
-- **Microsoft Windows** Platform (.NET Framework / Windows Forms / WPF / MS-SQL Database)
+- **Microsoft Windows** Platform
+  - .NET Framework / Windows Forms / WPF / MS-SQL Database
 - **VB.NET** & **C#.NET**
-- **Microsoft Office** App Development (VBA : Visual Basic for Applications / Add-in)
-- **C++** / **Arduino** / Internet of Things (IoT)
-- **Signal Processing** (Data Smoothing & Calibration Filters / Noise Reduction / Sensor Correction)
-- **Predictive Algorithms** (Extending Signal Processing with Data-driven Forecasting / Machine Learning & Deep Learning)
-- **OpenCVSharp4** (Machine Vision & Artificial Intelligence)
-- **MLOps** (Machine Learning Operation : Model Production & Deployment)
-- Microsoft **Azure DevOps** / **Git (Version Control)**
-- Leadership, Mentoring, Writing, Presentation
+  - Windows Desktop App Development 
+- **Microsoft Office** App Development
+  - VBA : Visual Basic for Applications / Add-in
+- **C++** / **Arduino**
+  - Internet of Things (IoT)
+- **Signal Processing**
+  - Data Smoothing & Calibration Filters / Noise Reduction / Sensor Correction
+- **Predictive Algorithms**
+  - Extending Signal Processing with Data-driven Forecasting / Machine Learning & Deep Learning
+- **OpenCVSharp4**
+  - Machine Vision & Artificial Intelligence
+- **MLOps**
+  - Machine Learning Operation : Model Production & Deployment
+- **Version Control**
+  - Microsoft **Azure DevOps** / **Git (Version Control)**
+- **Leadership, Mentoring, Writing, Presentation**
   
 <br><div align=center> 
 [![Charlie Jaewoong's github stats-Dark](https://github-readme-stats-fast.vercel.app/api/streak?username=happybono&layout=compact&theme=date_night#gh-dark-mode-only)](https://github.com/happybono#github-toplang-stats#gh-dark-mode-only)</div>
