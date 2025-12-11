@@ -30,15 +30,15 @@ Here are some ideas to get you started:
 -  Windows based application & library (component) developer
 
 ### Interests
-- Microsoft Windows Platform (.NET Framework / Windows Forms / WPF / MS-SQL Database)
-- VB.NET & C#.NET
-- Microsoft Office App Development (VBA : Visual Basic for Applications / Add-in)
-- C++ / Arduino / Internet of Things (IoT)
-- Signal Processing (Data Smoothing & Calibration Filters / Noise Reduction / Sensor Correction)
-- Predictive Algorithms (Extending Signal Processing with Data-driven Forecasting / Machine Learning & Deep Learning)
-- OpenCVSharp4 (Machine Vision & Artificial Intelligence)
-- MLOps (Machine Learning Operation : Model Production & Deployment)
-- Microsoft Azure DevOps / Git (Version Control)
+- **Microsoft Windows** Platform (.NET Framework / Windows Forms / WPF / MS-SQL Database)
+- **VB.NET** & **C#.NET**
+- **Microsoft Office** App Development (VBA : Visual Basic for Applications / Add-in)
+- **C++** / **Arduino** / Internet of Things (IoT)
+- **Signal Processing** (Data Smoothing & Calibration Filters / Noise Reduction / Sensor Correction)
+- **Predictive Algorithms** (Extending Signal Processing with Data-driven Forecasting / Machine Learning & Deep Learning)
+- **OpenCVSharp4** (Machine Vision & Artificial Intelligence)
+- **MLOps** (Machine Learning Operation : Model Production & Deployment)
+- Microsoft **Azure DevOps** / **Git (Version Control)**
 - Leadership, Mentoring, Writing, Presentation
   
 <br><div align=center> 
