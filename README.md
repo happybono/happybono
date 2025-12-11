@@ -41,11 +41,11 @@ Here are some ideas to get you started:
   
 <br><div align=center> 
 [![Charlie Jaewoong's github stats-Dark](https://github-readme-stats-fast.vercel.app/api/streak?username=happybono&layout=compact&theme=date_night#gh-dark-mode-only)](https://github.com/happybono#github-toplang-stats#gh-dark-mode-only)</div>
-<br><div align=center> 
+<div align=center> 
 [![Charlie Jaewoong's github stats-Dark](https://github-readme-stats-fast.vercel.app/api/streak?username=happybono&layout=compact&theme=light#gh-light-mode-only)](https://github.com/happybono#github-toplang-stats#gh-light-mode-only)</div>
   
 <br><div align=center> 
 [![Charlie Jaewoong's top-lang-stats-dark](https://github-readme-stats-fast.vercel.app/api/top-langs?username=happybono&layout=compact&theme=date_night#gh-dark-mode-only)](https://github.com/happybono#github-toplang-stats#gh-dark-mode-only)</div>
-<br><div align=center> 
+<div align=center> 
 [![Charlie Jaewoong's top-lang-stats-light](https://github-readme-stats-fast.vercel.app/api/top-langs?username=happybono&layout=compact&theme=light#gh-light-mode-only)](https://github.com/happybono#github-toplang-stats#gh-light-mode-only)</div>
 
