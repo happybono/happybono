@@ -1,4 +1,4 @@
-### /* Dream big. Achieve more. */ 
+### /* Dream Big. Achieve More. */ 
 <div align="center">
 <a href="https://hits.sh/github.com/happybono/happybono/"><img alt="Hits" src="https://hits.sh/github.com/happybono/happybono.svg"/></a>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/happybono/happybono">
