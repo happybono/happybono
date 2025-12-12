@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
 <br><a href="https://hits.sh/github.com/happybono/happybono/"><img alt="Hits" src="https://hits.sh/github.com/happybono/happybono.svg"/></a>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/happybono/happybono">
-<img alt="GitHub status" src="https://img.shields.io/badge/job%20status-offers%20welcome-brightgreen">
+<img alt="GitHub status" src="https://img.shields.io/badge/job_status-open_to_networking-orange">
 </div></br>
   
 ### Windows based application developer
